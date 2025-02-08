@@ -10,8 +10,8 @@
 
 ● Data Binding: A powerful library in Android that allows binding UI components in layouts directly to data sources, reducing boilerplate code and enhancing maintainability by creating reactive user interfaces.
 
+● LiveData: A lifecycle-aware observable data holder that allows UI components to observe changes in data, ensuring updates happen safely
+
 ● Hilt: A dependency injection library for Android that simplifies the management of dependencies, making it easier to scale applications.
 
 ● Room: A persistent library for SQLite that abstracts database interactions, providing a robust framework for data storage and retrieval.
-
-● LiveData: A lifecycle-aware observable data holder that allows UI components to observe changes in data, ensuring updates happen safely.
